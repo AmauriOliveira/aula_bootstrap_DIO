@@ -1,5 +1,38 @@
+body{
+    font-family: sans-serif;
+}
 
 .navbar {
-    background-color: #ffbb99;
-
+    background-color: #ff9933
+    ;
 }
+.main{
+    background-color: #0099cc;
+    color: white;
+}
+
+.portfolio{
+    background-color:#cc0000;
+    color: white;
+}
+
+.quem-somos{
+    background-color: #00ff99;
+    color: white;
+}
+
+.contato{
+    background-color: #ffff66;
+    color: black;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.col-md-4{
+    padding-top: 10px;
+    padding-bottom: 10px; 
+}
+ 
