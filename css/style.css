@@ -35,4 +35,25 @@ body{
     padding-top: 10px;
     padding-bottom: 10px; 
 }
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-link{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: crimson;
+    padding: 2px;
+}
+
+.div-class-contato {
+    color: white;
+    margin: 5px; 
+}
+footer{
+    background-color: teal;
+    color: white;
+    text-shadow: slategray;
+    padding: 10px;
+}
  
